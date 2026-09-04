@@ -7,7 +7,6 @@
     "partOfSpeech": "noun, adverb, adjective",
     "exampleFarsi": "مستقیم برو و بعد راست بپیچ",
     "exampleEnglish": "Go straight and then turn right.",
-    "exampleHighlight": "right",
     "level": "intermediate"
   },
   {
@@ -16,8 +15,8 @@
     "transliteration": "sādeghāne",
     "meaning": "honestly, sincerely",
     "partOfSpeech": "adverb",
-    "exampleFarsi": "او صادقانه با من صحبت کرد.",
-    "exampleEnglish": "He/She spoke to me honestly.",
+    "exampleFarsi": "مریم صادقانه با من صحبت کرد.",
+    "exampleEnglish": "Maryam spoke to me honestly.",
     "level": "intermediate"
   },
   {
@@ -26,19 +25,19 @@
     "transliteration": "amdan",
     "meaning": "intentionally, deliberately",
     "partOfSpeech": "adverb",
-    "exampleFarsi": "او این کار را عمداً انجام داد.",
-    "exampleEnglish": "He/She did this intentionally.",
+    "exampleFarsi": "نگین این کار را عمداً انجام داد.",
+    "exampleEnglish": "Negin did this intentionally.",
     "level": "intermediate"
   },
   {
     "id": 4,
-    "farsi": "به‌هرحال",
-    "transliteration": "be har hāl",
-    "meaning": "anyway, in any case",
-    "partOfSpeech": "adverb",
-    "exampleFarsi": "به‌هرحال باید تصمیم بگیریم.",
-    "exampleEnglish": "Anyway, we have to decide.",
-    "level": "intermediate"
+    "farsi": "مصلحت",
+    "transliteration": "maslahat",
+    "meaning": "benefit, advantage",
+    "partOfSpeech": "noun",
+    "exampleFarsi": "دروغ مصلحت آمیز به از راست فتنه انگیز.",
+    "exampleEnglish": "An expediential lie is better than a truth that causes trouble.",
+    "level": "advanced"
   },
   {
     "id": 5,
@@ -116,8 +115,8 @@
     "transliteration": "be nazar residan",
     "meaning": "to seem, appear",
     "partOfSpeech": "verb",
-    "exampleFarsi": "به‌نظر می‌رسد او ناراحت است.",
-    "exampleEnglish": "It seems he/she is upset.",
+    "exampleFarsi": "به‌نظر می‌رسد سگ شما ناراحت است.",
+    "exampleEnglish": "It seems your dog is upset.",
     "level": "intermediate"
   },
   {
@@ -1333,7 +1332,7 @@
   {
     "id": 134,
     "farsi": "موز",
-    "transliteration": "moz",
+    "transliteration": "mowz",
     "meaning": "banana",
     "partOfSpeech": "noun",
     "exampleFarsi": "موز منبع خوبی از پتاسیم است.",
@@ -1363,7 +1362,7 @@
   {
     "id": 137,
     "farsi": "هندوانه",
-    "transliteration": "hendevāne",
+    "transliteration": "hendevāne (hendune)",
     "meaning": "watermelon",
     "partOfSpeech": "noun",
     "exampleFarsi": "تابستان هندوانه می‌خوریم.",
@@ -9023,7 +9022,7 @@
   {
     "id": 903,
     "farsi": "بی‌فایده",
-    "transliteration": "bi-fāyede",
+    "transliteration": "bi-fāyide",
     "meaning": "useless",
     "partOfSpeech": "adjective",
     "exampleFarsi": "این تلاش بی‌فایده بود.",
