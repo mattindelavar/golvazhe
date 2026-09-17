@@ -150,7 +150,7 @@
     "partOfSpeech": "verb",
     "exampleFarsi": "او به نظر دیگران اهمیت نمی‌دهد.",
     "exampleTransliteration": "U be nazar-e digarān ahmiyat nemidahad.",
-    "exampleEnglish": "He/She doesn't care about others' opinions.",
+    "exampleEnglish": "He doesn't care about others' opinions.",
     "level": "intermediate"
   },
   {
@@ -159,9 +159,9 @@
     "transliteration": "qābel-e e'temād",
     "meaning": "trustworthy, reliable",
     "partOfSpeech": "adjective",
-    "exampleFarsi": "او آدم قابل اعتمادی است.",
-    "exampleTransliteration": "U ādam-e qābel-e e'temādi ast.",
-    "exampleEnglish": "He/She is a trustworthy person.",
+    "exampleFarsi": "حمید آدم قابل اعتمادی است.",
+    "exampleTransliteration": "Hamid ādam-e qābel-e e'temādi ast.",
+    "exampleEnglish": "Hamid is a trustworthy person.",
     "level": "intermediate"
   },
   {
@@ -172,7 +172,7 @@
     "partOfSpeech": "noun",
     "exampleFarsi": "او انگیزه زیادی برای موفقیت دارد.",
     "exampleTransliteration": "U angize-ye ziyādi barāye movaffaqiyat dārad.",
-    "exampleEnglish": "He/She has a lot of motivation to succeed.",
+    "exampleEnglish": "She has a lot of motivation to succeed.",
     "level": "intermediate"
   },
   {
@@ -194,7 +194,7 @@
     "partOfSpeech": "noun",
     "exampleFarsi": "او مهارت زیادی در نقاشی دارد.",
     "exampleTransliteration": "U mahārat-e ziyādi dar naqqāshi dārad.",
-    "exampleEnglish": "He/She has a lot of skill in painting.",
+    "exampleEnglish": "He has a lot of skill in painting.",
     "level": "intermediate"
   },
   {
@@ -205,7 +205,7 @@
     "partOfSpeech": "noun",
     "exampleFarsi": "دیدگاه او متفاوت است.",
     "exampleTransliteration": "Didgāh-e u motefāvet ast.",
-    "exampleEnglish": "His/Her perspective is different.",
+    "exampleEnglish": "His perspective is different.",
     "level": "intermediate"
   },
   {
@@ -247,9 +247,9 @@
     "transliteration": "qāfelgir shodan",
     "meaning": "to be surprised, caught off guard",
     "partOfSpeech": "verb",
-    "exampleFarsi": "از این خبر غافلگیر شدم.",
-    "exampleTransliteration": "Az in khabar qāfelgir shodam.",
-    "exampleEnglish": "I was surprised by this news.",
+    "exampleFarsi": "از این خبر خیلی غافلگیر شدم.",
+    "exampleTransliteration": "Az in khabar kheili qāfelgir shodam.",
+    "exampleEnglish": "I was very surprised by this news.",
     "level": "intermediate"
   },
   {
@@ -304,7 +304,7 @@
     "partOfSpeech": "noun",
     "exampleFarsi": "حرف‌هایش پر از تناقض بود.",
     "exampleTransliteration": "Harf-hāyash por az tanāqoz bud.",
-    "exampleEnglish": "His/Her words were full of contradiction.",
+    "exampleEnglish": "His words were full of contradiction.",
     "level": "intermediate"
   },
   {
@@ -468,7 +468,7 @@
     "meaning": "paternal aunt",
     "partOfSpeech": "noun",
     "exampleFarsi": "عمه‌ام برایم هدیه آورد.",
-    "exampleTransliteration": "Amme-am barāyam hedye āvard.",
+    "exampleTransliteration": "Amme-am barāyam hediye āvard.",
     "exampleEnglish": "My aunt brought me a gift.",
     "level": "beginner"
   },
@@ -519,11 +519,11 @@
   {
     "id": 48,
     "farsi": "بچه",
-    "transliteration": "bacche",
+    "transliteration": "bache",
     "meaning": "child, kid",
     "partOfSpeech": "noun",
     "exampleFarsi": "بچه‌ها در حیاط بازی می‌کنند.",
-    "exampleTransliteration": "Bacche-hā dar hayāt bāzi mikonand.",
+    "exampleTransliteration": "Bache-hā dar hayāt bāzi mikonand.",
     "exampleEnglish": "The children are playing in the yard.",
     "level": "beginner"
   },
@@ -5242,7 +5242,7 @@
     "meaning": "pilot",
     "partOfSpeech": "noun",
     "exampleFarsi": "خلبان هواپیما را فرود آورد.",
-    "exampleTransliteration": "Khalabān havāpeymā rā forud āvard.",
+    "exampleTransliteration": "Khalabān havāpeymā rā forud āvord.",
     "exampleEnglish": "The pilot landed the plane.",
     "level": "beginner"
   },
@@ -7629,7 +7629,7 @@
     "meaning": "to lower, to bring down",
     "partOfSpeech": "verb",
     "exampleFarsi": "صدایش را پایین آورد.",
-    "exampleTransliteration": "Sedāyash rā pāyin āvard.",
+    "exampleTransliteration": "Sedāyash rā pāyin āvord.",
     "exampleEnglish": "He/she lowered his/her voice.",
     "level": "intermediate"
   },
@@ -11534,7 +11534,7 @@
     "meaning": "disillusionment, being fed up",
     "partOfSpeech": "noun",
     "exampleFarsi": "دلزدگی از کارش او را به فکر تغییر انداخت.",
-    "exampleTransliteration": "Delzadegi az kār-ash u rā be fekr-e taghyir andākht.",
+    "exampleTransliteration": "Delzadegi az kār-ash u rā be fekr-e taghiir andākht.",
     "exampleEnglish": "Disillusionment with his job made him think about change.",
     "level": "advanced"
   },
