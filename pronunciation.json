@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1,
+    "symbol": "A",
+    "sound": "a in apple",
+    "farsiLetters": "ا-، not shown",
+    "farsiExample": "دل",
+    "romanization": "del",
+    "meaning": "Heart"
+  },
+  {
+    "id": 2,
+    "symbol": "Ā",
+    "sound": "a in father",
+    "farsiLetters": "ـا ، آ",
+    "farsiExample": "آب",
+    "romanization": "āb",
+    "meaning": "Water"
+  },
+  {
+    "id": 3,
+    "symbol": "B",
+    "sound": "b in brown",
+    "farsiLetters": "ب",
+    "farsiExample": "بی",
+    "romanization": "bi",
+    "meaning": "Without"
+  },
+  {
+    "id": 4,
+    "symbol": "Ch",
+    "sound": "ch in chair",
+    "farsiLetters": "چ",
+    "farsiExample": "چهار",
+    "romanization": "chahār",
+    "meaning": "Four"
+  },
+  {
+    "id": 5,
+    "symbol": "D",
+    "sound": "d in deal",
+    "farsiLetters": "د",
+    "farsiExample": "دور",
+    "romanization": "dur",
+    "meaning": "Farsi meaning"
+  },
+  {
+    "id": 6,
+    "symbol": "E",
+    "sound": "e in example",
+    "farsiLetters": "ـه، ا-، not shown",
+    "farsiExample": "اقتصاد",
+    "romanization": "Eqtesād",
+    "meaning": "Economy"
+  },
+  {
+    "id": 7,
+    "symbol": "F",
+    "sound": "f in father",
+    "farsiLetters": "ف",
+    "farsiExample": "فکر",
+    "romanization": "Fekr",
+    "meaning": "Thought, idea"
+  },
+  {
+    "id": 8,
+    "symbol": "G",
+    "sound": "g in gate",
+    "farsiLetters": "گ",
+    "farsiExample": "گاو",
+    "romanization": "Gāv",
+    "meaning": "Cow"
+  },
+  {
+    "id": 9,
+    "symbol": "H",
+    "sound": "h in hello",
+    "farsiLetters": "ه، ح",
+    "farsiExample": "هوا",
+    "romanization": "Havā",
+    "meaning": "Air"
+  },
+  {
+    "id": 10,
+    "symbol": "I",
+    "sound": "ee in meet",
+    "farsiLetters": "ی",
+    "farsiExample": "ایستگاه",
+    "romanization": "Istgāh",
+    "meaning": "A stop"
+  },
+  {
+    "id": 11,
+    "symbol": "J",
+    "sound": "j in job",
+    "farsiLetters": "ج",
+    "farsiExample": "جواهر",
+    "romanization": "Javāher",
+    "meaning": "Jewel"
+  },
+  {
+    "id": 12,
+    "symbol": "K",
+    "sound": "k in king",
+    "farsiLetters": "ک",
+    "farsiExample": "کاخ",
+    "romanization": "Kākh",
+    "meaning": "Palace"
+  },
+  {
+    "id": 13,
+    "symbol": "Kh",
+    "sound": "ch in loch",
+    "farsiLetters": "خ",
+    "farsiExample": "خاک",
+    "romanization": "Khāk",
+    "meaning": "Dirt, dust"
+  },
+  {
+    "id": 14,
+    "symbol": "L",
+    "sound": "l in leaf",
+    "farsiLetters": "ل",
+    "farsiExample": "لونه",
+    "romanization": "Loone",
+    "meaning": "Nest"
+  },
+  {
+    "id": 15,
+    "symbol": "M",
+    "sound": "m in mother",
+    "farsiLetters": "م",
+    "farsiExample": "مادر",
+    "romanization": "Mādar",
+    "meaning": "Mother"
+  },
+  {
+    "id": 16,
+    "symbol": "N",
+    "sound": "n in new",
+    "farsiLetters": "ن",
+    "farsiExample": "نان",
+    "romanization": "Nān",
+    "meaning": "Bread"
+  },
+  {
+    "id": 17,
+    "symbol": "O",
+    "sound": "o in more",
+    "farsiLetters": "ا-، not shown",
+    "farsiExample": "اردک",
+    "romanization": "Ordak",
+    "meaning": "Duck"
+  },
+  {
+    "id": 18,
+    "symbol": "P",
+    "sound": "p in play",
+    "farsiLetters": "پ",
+    "farsiExample": "پدر",
+    "romanization": "Pedar",
+    "meaning": "Father"
+  },
+  {
+    "id": 19,
+    "symbol": "Q",
+    "sound": "No English equivalent",
+    "farsiLetters": "ق، غ",
+    "farsiExample": "قایق",
+    "romanization": "Qāyeq",
+    "meaning": "Boat"
+  },
+  {
+    "id": 20,
+    "symbol": "R",
+    "sound": "r in right",
+    "farsiLetters": "ر",
+    "farsiExample": "راست",
+    "romanization": "Rāst",
+    "meaning": "Right, straight, truth"
+  },
+  {
+    "id": 21,
+    "symbol": "S",
+    "sound": "s in sound",
+    "farsiLetters": "س، ص، ث",
+    "farsiExample": "صدا",
+    "romanization": "Sedā",
+    "meaning": "Sound"
+  },
+  {
+    "id": 22,
+    "symbol": "Sh",
+    "sound": "sh in shade",
+    "farsiLetters": "ش",
+    "farsiExample": "شانس",
+    "romanization": "Shāns",
+    "meaning": "Luck"
+  },
+  {
+    "id": 23,
+    "symbol": "T",
+    "sound": "t in today",
+    "farsiLetters": "ت، ط",
+    "farsiExample": "توت",
+    "romanization": "Tut",
+    "meaning": "Berry, mulberry"
+  },
+  {
+    "id": 24,
+    "symbol": "U",
+    "sound": "ew in new",
+    "farsiLetters": "و",
+    "farsiExample": "او",
+    "romanization": "U",
+    "meaning": "He/she/it"
+  },
+  {
+    "id": 25,
+    "symbol": "V",
+    "sound": "v in vase",
+    "farsiLetters": "و",
+    "farsiExample": "ورزش",
+    "romanization": "Varzesh",
+    "meaning": "Sport, exercise"
+  },
+  {
+    "id": 26,
+    "symbol": "Y",
+    "sound": "y in yard",
+    "farsiLetters": "ی",
+    "farsiExample": "یخ",
+    "romanization": "Yakh",
+    "meaning": "Ice"
+  },
+  {
+    "id": 27,
+    "symbol": "Z",
+    "sound": "z in zoo",
+    "farsiLetters": "ز، ذ، ظ، ض",
+    "farsiExample": "زندگی",
+    "romanization": "Zendegi",
+    "meaning": "Life"
+  },
+  {
+    "id": 28,
+    "symbol": "Zh",
+    "sound": "ge in massage",
+    "farsiLetters": "ژ",
+    "farsiExample": "واژه",
+    "romanization": "Vāzhe",
+    "meaning": "Word"
+  },
+  {
+    "id": 29,
+    "symbol": "(Glottal stop)",
+    "sound": "- in uh-oh",
+    "farsiLetters": "ع",
+    "farsiExample": "طبیعت",
+    "romanization": "Tabi'at",
+    "meaning": "Nature"
+  }
+]
