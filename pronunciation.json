@@ -3,9 +3,9 @@
     "id": 1,
     "symbol": "A",
     "sound": "a in apple",
-    "farsiLetters": "ا-، not shown",
+    "farsiLetters": "-ا ، not shown",
     "farsiExample": "برادر",
-    "romanization": "barādar",
+    "romanization": "Barādar",
     "meaning": "Brother"
   },
   {
@@ -14,7 +14,7 @@
     "sound": "a in father",
     "farsiLetters": "ـا ، آ",
     "farsiExample": "آب",
-    "romanization": "āb",
+    "romanization": "Āb",
     "meaning": "Water"
   },
   {
@@ -23,7 +23,7 @@
     "sound": "b in brown",
     "farsiLetters": "ب",
     "farsiExample": "بی",
-    "romanization": "bi",
+    "romanization": "Bi",
     "meaning": "Without"
   },
   {
@@ -32,7 +32,7 @@
     "sound": "ch in chair",
     "farsiLetters": "چ",
     "farsiExample": "چهار",
-    "romanization": "chahār",
+    "romanization": "Chahār",
     "meaning": "Four"
   },
   {
@@ -41,7 +41,7 @@
     "sound": "d in deal",
     "farsiLetters": "د",
     "farsiExample": "دور",
-    "romanization": "dur",
+    "romanization": "Dur",
     "meaning": "Farsi meaning"
   },
   {
@@ -253,7 +253,7 @@
   },
   {
     "id": 29,
-    "symbol": "(Glottal stop)",
+    "symbol": "'",
     "sound": "- in uh-oh",
     "farsiLetters": "ع",
     "farsiExample": "طبیعت",
