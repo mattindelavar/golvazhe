@@ -467,8 +467,8 @@
     "transliteration": "amme",
     "meaning": "paternal aunt",
     "partOfSpeech": "noun",
-    "exampleFarsi": "عمه‌ام برایم هدیه آورد.",
-    "exampleTransliteration": "Amme-am barāyam hediye āvard.",
+    "exampleFarsi": "عمهٔ من برایم هدیه آورد.",
+    "exampleTransliteration": "Amme-ye man barāyam hediye āvard.",
     "exampleEnglish": "My aunt brought me a gift.",
     "level": "beginner"
   },
@@ -1974,8 +1974,8 @@
     "transliteration": "fahmidan",
     "meaning": "to understand",
     "partOfSpeech": "verb",
-    "exampleFarsi": "متوجه منظورت شدم.",
-    "exampleTransliteration": "Motevajjeh-e manzurat shodam.",
+    "exampleFarsi": "منظورت را فهمیدم.",
+    "exampleTransliteration": "Manzurat rā fahmidam.",
     "exampleEnglish": "I understood what you meant.",
     "level": "beginner"
   },
@@ -2172,8 +2172,8 @@
     "transliteration": "eshq varzidan",
     "meaning": "to love",
     "partOfSpeech": "verb",
-    "exampleFarsi": "او عاشقانه او را دوست دارد.",
-    "exampleTransliteration": "U āsheqāne u rā doost dārad.",
+    "exampleFarsi": "او به همسرش عشق می‌ورزد.",
+    "exampleTransliteration": "U be hamsarash eshq mivarzad.",
     "exampleEnglish": "He loves her passionately.",
     "level": "beginner"
   },
@@ -2664,11 +2664,11 @@
   {
     "id": 243,
     "farsi": "سعی کردن",
-    "transliteration": "sa'y kardan",
+    "transliteration": "sa'yi kardan",
     "meaning": "to try",
     "partOfSpeech": "verb",
     "exampleFarsi": "سعی کن دیر نکنی.",
-    "exampleTransliteration": "Sa'y kon dir nakoni.",
+    "exampleTransliteration": "Sa'yi kon dir nakoni.",
     "exampleEnglish": "Try not to be late.",
     "level": "beginner"
   },
@@ -3610,11 +3610,11 @@
   {
     "id": 329,
     "farsi": "بی‌اهمیت",
-    "transliteration": "bi-ahammiyat",
+    "transliteration": "bi-ahmiyat",
     "meaning": "unimportant",
     "partOfSpeech": "adjective",
     "exampleFarsi": "این موضوع بی‌اهمیت است.",
-    "exampleTransliteration": "In mozu' bi-ahammiyat ast.",
+    "exampleTransliteration": "In mozu' bi-ahmiyat ast.",
     "exampleEnglish": "This matter is unimportant.",
     "level": "beginner"
   },
@@ -5502,11 +5502,11 @@
   {
     "id": 501,
     "farsi": "وب‌سایت",
-    "transliteration": "web-sāyt",
+    "transliteration": "veb-sāyt",
     "meaning": "website",
     "partOfSpeech": "noun",
     "exampleFarsi": "این وب‌سایت اطلاعات مفیدی دارد.",
-    "exampleTransliteration": "In web-sāyt etelā'āt-e mofidi dārad.",
+    "exampleTransliteration": "In veb-sāyt etelā'āt-e mofidi dārad.",
     "exampleEnglish": "This website has useful information.",
     "level": "beginner"
   },
@@ -5726,7 +5726,7 @@
     "meaning": "truth",
     "partOfSpeech": "noun",
     "exampleFarsi": "حقیقت را بگو.",
-    "exampleTransliteration": "Haqiqat rā bogu.",
+    "exampleTransliteration": "Haqiqat rā begu.",
     "exampleEnglish": "Tell the truth.",
     "level": "intermediate"
   },
@@ -6298,7 +6298,7 @@
     "meaning": "immediately",
     "partOfSpeech": "adverb",
     "exampleFarsi": "فوراً به من زنگ بزن.",
-    "exampleTransliteration": "Foran be man zang bezan.",
+    "exampleTransliteration": "Fowran be man zang bezan.",
     "exampleEnglish": "Call me immediately.",
     "level": "beginner"
   },
@@ -6496,7 +6496,7 @@
     "meaning": "geography",
     "partOfSpeech": "noun",
     "exampleFarsi": "جغرافیای ایران متنوع است.",
-    "exampleTransliteration": "Joqrāfiā-ye irān moteno' ast.",
+    "exampleTransliteration": "Joqrāfiā-ye irān motenavve' ast.",
     "exampleEnglish": "The geography of Iran is diverse.",
     "level": "beginner"
   },
@@ -6679,11 +6679,11 @@
   {
     "id": 608,
     "farsi": "کشتی",
-    "transliteration": "kashti",
+    "transliteration": "keshti",
     "meaning": "ship, boat",
     "partOfSpeech": "noun",
     "exampleFarsi": "کشتی از بندر حرکت کرد.",
-    "exampleTransliteration": "Kashti az bandar harekat kard.",
+    "exampleTransliteration": "Keshti az bandar harekat kard.",
     "exampleEnglish": "The ship departed from the port.",
     "level": "beginner"
   },
@@ -6903,7 +6903,7 @@
     "meaning": "shop, store",
     "partOfSpeech": "noun",
     "exampleFarsi": "این مغازه لباس می‌فروشد.",
-    "exampleTransliteration": "In maqāze lebās mifarushad.",
+    "exampleTransliteration": "In maqāze lebās miforushad.",
     "exampleEnglish": "This shop sells clothes.",
     "level": "beginner"
   },
@@ -7651,7 +7651,7 @@
     "meaning": "to fall",
     "partOfSpeech": "verb",
     "exampleFarsi": "از پله افتاد.",
-    "exampleTransliteration": "Az palle oftād.",
+    "exampleTransliteration": "Az pelle oftād.",
     "exampleEnglish": "He/she fell down the stairs.",
     "level": "intermediate"
   },
@@ -8241,11 +8241,11 @@
   {
     "id": 750,
     "farsi": "پله",
-    "transliteration": "palle",
+    "transliteration": "pelle",
     "meaning": "stair, step",
     "partOfSpeech": "noun",
     "exampleFarsi": "از پله‌ها بالا رفت.",
-    "exampleTransliteration": "Az palle-hā bālā raft.",
+    "exampleTransliteration": "Az pelle-hā bālā raft.",
     "exampleEnglish": "He/she went up the stairs.",
     "level": "intermediate"
   },
@@ -11189,11 +11189,11 @@
   {
     "id": 1018,
     "farsi": "رشک",
-    "transliteration": "reshk",
+    "transliteration": "rashk",
     "meaning": "envy",
     "partOfSpeech": "noun",
     "exampleFarsi": "موفقیت او رشک همکارانش را برانگیخت.",
-    "exampleTransliteration": "Movaffaghiyat-e u reshk-e hamkārān-ash rā barangikht.",
+    "exampleTransliteration": "Movaffaghiyat-e u rashk-e hamkārān-ash rā barangikht.",
     "exampleEnglish": "His success provoked his colleagues' envy.",
     "level": "advanced"
   },
@@ -11303,7 +11303,7 @@
     "meaning": "repentance",
     "partOfSpeech": "noun",
     "exampleFarsi": "او تصمیم به توبه از گذشته‌اش گرفت.",
-    "exampleTransliteration": "U tasmim be towbeh az gozashte-ash gereft.",
+    "exampleTransliteration": "U tasmim be towbe az gozashte-ash gereft.",
     "exampleEnglish": "He decided to repent for his past.",
     "level": "advanced"
   },
@@ -11563,11 +11563,11 @@
   {
     "id": 1052,
     "farsi": "سرکش",
-    "transliteration": "sarkash",
+    "transliteration": "sarkesh",
     "meaning": "rebellious, unruly",
     "partOfSpeech": "adjective",
     "exampleFarsi": "اسب سرکش کنترل سوارکار را از دست او خارج کرد.",
-    "exampleTransliteration": "Asb-e sarkash kontrol-e savārkār rā az dast-e u khārej kard.",
+    "exampleTransliteration": "Asb-e sarkesh kontrol-e savārkār rā az dast-e u khārej kard.",
     "exampleEnglish": "The unruly horse threw off its rider's control.",
     "level": "advanced"
   }
